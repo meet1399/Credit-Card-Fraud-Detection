@@ -1,5 +1,3 @@
-# Credit-Card-Fraud-Detection
-
 # Credit Card Fraud Detection Using Machine Learning
 
 This project focuses on detecting credit card fraud using various machine learning techniques. As fraudsters are increasing day-by-day, detecting fallacious transactions through credit cards is crucial. This project implements a combination of K-Means, Logistic Regression, and Neural Networks to tackle this issue.
